@@ -2,18 +2,16 @@
 
 ## Not started
 
-* Diet Coke and Mentos - effect of temperature 
-* Make slime - polymers
-*Static Electricity 
+### Physics
+
+*Diet Coke and Mentos - effect of temperature 
+*Make slime - polymers
 *Disappearing Ink
-*Make a potato battery
 *Alka Selzer film canister rockets
 *Ballon powered car
-*Make your own electromagnet
 *Colorful flowers
 *Make a rainbow in a jar to learn about density
 *Make rock candy
-*Electric Play Dough
 *Elephant toothpaste
 *Make your own coloring robot
 *Penny Polishing experiment
@@ -21,7 +19,6 @@
 *Make your own ice cream
 *Magnetic Slime
 *Grow some crystals
-*Generate electricity with a lemon and coins
 *Make a catapult
 *Dancing Raisins
 *Blow Up a Ballon (with out your breath)
@@ -35,6 +32,19 @@
 *Make rice move with sound waves
 *Make a lego transmission
 
+### Electrical
+
+*LED bracelet
+*Basic circuit (battery, switch, LED)
+*Generate electricity with a lemon and coins
+*Static Electricity 
+*Make a potato battery
+*Make your own electromagnet
+*Electric Play Dough
+*Basic transistor circuit
+*AC vs DC electricity
+*Capacitance
+*Inductance
 
 ## Completed videos
 
